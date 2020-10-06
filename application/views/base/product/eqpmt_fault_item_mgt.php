@@ -6,7 +6,8 @@
     <div class="searchWrap cf">
         <div class="searchLine">
             <div class="boxW col-3 search">
-                <p>고장</p>
+                <h1>장고</h1>
+                
                 <input type="text" name="fault_cd">
                 <input type="text" name="fault_nm" value="">
             </div>
