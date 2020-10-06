@@ -25,13 +25,10 @@
 </div>
 
 <div>다시 적기 귀찮다.</div>
-<<<<<<< HEAD
 <div>다시 적기 귀찮다.</div>
 <div>다시 적기 귀찮다.</div>
 <div>다시 적기 귀찮다.</div>
 <div>다시 적기 귀찮다.</div>
 <div>다시 적기 귀찮다.</div>
-=======
->>>>>>> 359b9795cade7d491965d8be152212c6667aadf5
 
 <script type="module" src="/include/js/base/product/wrkctr_mgt.js"></script>
