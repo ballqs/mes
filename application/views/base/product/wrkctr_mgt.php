@@ -24,4 +24,6 @@
     <div id="grid" style="width: 100%;"></div>
 </div>
 
+<div>다시 적기 귀찮다.</div>
+
 <script type="module" src="/include/js/base/product/wrkctr_mgt.js"></script>
