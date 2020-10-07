@@ -11,7 +11,8 @@
                 <input type="text" name="fault_nm" value="">
             </div>
             <div class="boxW col-3 select">
-                <p>고장sss유형</p>
+                <!-- <p>고장sss유형</p>  -->
+                <p>고장유형</p>
                 <select name="fault_type"></select>
             </div>
         </div>
