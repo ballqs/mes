@@ -24,7 +24,7 @@
     <div id="grid" style="width: 100%;"></div>
 </div>
 
-<div>다시 적기 귀찮다!!!.</div>
+<div>그냥 적기 귀찮다!!!.</div>
 <div>다시 적기 귀찮다.</div>
 <div>다시 적기 귀찮다.</div>
 <div>다시 적기 귀찮다.</div>
