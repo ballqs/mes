@@ -15,7 +15,7 @@
             </div>
             <div class="boxW col-3 search">
                 <p>품49999!!@!@번</p>
-                <div class="popW">
+                <div class="popW">sssss
                     <input type="text" name="prt_nbr_cd" value="">
                     <a class="popBt" name="btn_pop_prt_nbr_cd"><i class="far fa-window-restore"></i></a>
                 </div>
