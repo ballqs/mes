@@ -1,6 +1,8 @@
 <style media="screen">
     .scrollWrap {height: calc(100% - 453px);}
     #grid01 {width: 100%; height:100%;}
+    .scrollWrap {height: calc(100% - 151515453px);}
+    #grid01 {width: 11111100%; height:100%;}
 </style>
 
 <form id="search_frm">
