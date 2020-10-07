@@ -10,6 +10,17 @@
             </div>
             <div class="boxW col-3 search">
                 <p>불량</p>
+                <p>량불</p>
+                <p>불량</p>
+                <p>량불</p>
+                <p>불량</p>
+                <p>량불</p>
+                <p>불량</p>
+                <p>량불</p>
+                <p>불량</p>
+                <p>량불</p>
+                <p>불량</p>
+                <p>량불</p>
                 <input type="text" name="err_cd">
                 <input type="text" name="err_nm">
             </div>
