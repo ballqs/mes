@@ -1,5 +1,5 @@
 <?php
-$attr = array("id"=>"search_frm");
+$attr = array("id"=>"search_frm");!!!!!!!
 $hidd = array();
 ?>
 <style media="screen">
