@@ -7,7 +7,7 @@
     <div class="searchWrap cf">
         <div class="searchLine cf">
             <div class="boxW col-3 select">
-                <p>공장</p>
+                <p>공ssss장</p>
                 <select name="fact_cd"></select>
             </div>
             <div class="boxW col-3 search">
