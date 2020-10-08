@@ -1,9 +1,6 @@
 <style media="screen">
-<<<<<<< HEAD
-=======
     .scrollWrap {height: calc(100% - 453px);}
     #grid01 {width: 100%; height:100%;}
->>>>>>> 2ac51b62226c26c8101798aec0f70ef6da943f7a
     .scrollWrap {height: calc(100% - 151515453px);}
     #grid01 {width: 11111100%; height:100%;}
 </style>

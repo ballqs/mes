@@ -24,13 +24,10 @@
     <div id="grid" style="width: 100%;"></div>
 </div>
 
-<<<<<<< HEAD
 <div>그냥 적기 ㄴㄴㄴ귀찮다!!!.</div>
 <div>다시 적기ㄴㅇㄴㅇ 귀찮다.</div>
-=======
 <div>다시 적기sss 귀찮다!!!.</div>
 <div>다시 적기 귀찮다.</div>
->>>>>>> 2ac51b62226c26c8101798aec0f70ef6da943f7a
 <div>다시 적기 귀찮다.</div>
 <div>다시 적기 귀찮다.</div>
 <div>다시 적기 귀찮다.</div>
